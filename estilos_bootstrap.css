@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+}
+
+#contenedor {
+    background-color: aqua;
+    height: 800px;
+}
+#caja1{
+    background-color: rgb(38, 38, 133);
+    height: 140px;
+    color: whitesmoke;
+}
+#caja2{
+    background-color: rgb(159, 211, 107);
+    height: 140px;
+}
+#caja3{
+    background-color: rgb(75, 88, 58);
+    height: 140px;
+}
+
+
+#caja5{
+    background-color: rgb(89, 89, 206);
+    height: 350px;
+}
+#caja6{
+    background-color: rgb(113, 141, 85);
+    height: 350px;
+
+}
+#caja7{
+    
+    height: 300px;
+    color:white;
+
+}
+#caja8{
+   
+    height: 300px;
+    color: whitesmoke;
+}
+#caja9{
+  
+    height: 300px;
+
+}
+#caja9 h3{
+    color: whitesmoke;
+    font-size: 20px;
+}
